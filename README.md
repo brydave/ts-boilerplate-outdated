@@ -1,2 +1,2 @@
 # ts-boilerplate
-For quickly prototyping in TS
+For quick prototyping in TS
