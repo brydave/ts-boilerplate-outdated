@@ -1,3 +1,5 @@
+import './styles.css'
+
 interface BoilerPlate {
   name: string;
   version: string;
