@@ -1,17 +1,19 @@
 # ts-boilerplate
 For quick prototyping in TS
 
+Install Yarn if needed
+
 To get started, clone and run:
 ```
-npm install
+yarn
 ```
 
 To run dev server
 ```
-npm start
+yarn start
 ```
 
 To build
 ```
-npm run build
+yarn run build
 ```
